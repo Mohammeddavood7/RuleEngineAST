@@ -1,3 +1,6 @@
+After importing the project into Eclipse or another IDE, first go to the YAML file and update the database schema, username, password, and service class. Then, navigate to the Maven builder and enter the commands 'clean install.' After that, update and refresh the project. Finally, check the pom.xml file as well.
+
+
 1.http://localhost:8080/api/rules
 =================================
 {
